@@ -1,2 +1,0 @@
-# tourish
-Tourish app
